@@ -32,7 +32,7 @@
 <!-- Social Media  -->
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/rajuan-ahmed-a86a44258" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://rajuan.rf.gd/" title="Portfolio Website"><img width="30" src="images/website.png"> Portfolio Website</a></code>
+  <code><a href="https://rajuan.rf.gd/" title="Portfolio Website"><img width="30" src="images/website.jpg"> Portfolio Website</a></code>
   <code><a href="https://facebook.com/dark.r34" title="Facebook Profile"><img width="30" src="images/facebook.png"> Facebook</a></code>
 </h5>
 
